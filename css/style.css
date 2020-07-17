@@ -1,0 +1,34 @@
+
+.logo-margin {
+    margin-left: 10px;
+}
+
+.descrip-image {
+    object-fit: contain;
+    height: 200px;
+    width: auto;
+    padding-top: 20px;
+}
+
+.btn-custom {
+    color: black;
+}
+
+.service-padding {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.carousel {
+    margin: 20px 0;
+    height: 400px;
+    width: auto;
+}
+
+.footer-one {
+    background:#38312f;
+}
+
+.footer-two {
+    background:#1d1919;;
+}
